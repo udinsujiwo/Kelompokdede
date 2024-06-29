@@ -49,7 +49,7 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
+              <div class="icon"><i class="bx bx-world"></i>
               <img src="assets/img/hero-bg.jpg" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Nemo Enim</a></h4>
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
@@ -58,7 +58,7 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-slideshow"></i></div>
+              <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/hero-bg.jpg" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Dele cardo</a></h4>
               <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
@@ -67,8 +67,9 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
-              <img src="assets/img/hero-bg.jpg" alt="Description of the image" width="100" height="100"></div>
+              <div class="icon"><i class="bx bx-arch">
+              <img src="assets/img/hero-bg.jpg" alt="Description of the image" width="100" height="100">
+              </i></div>
               <h4><a href="">Divera don</a></h4>
               <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
@@ -80,7 +81,7 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
+              <div class="icon"><i class="bx bx-arch"></i> 
               <img src="assets/img/hero-bg.jpg" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Divera don</a></h4>
               <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
@@ -89,7 +90,7 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-slideshow"></i></div>
+              <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/hero-bg.jpg" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Dele cardo</a></h4>
               <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
@@ -98,8 +99,9 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
-              <img src="assets/img/hero-bg.jpg" alt="Description of the image" width="100" height="100"></div>
+              <div class="icon"><i class="bx bx-world">
+              <img src="assets/img/hero-bg.jpg" alt="Description of the image" width="100" height="100">
+              </i></div>
               <h4><a href="">Nemo Enim</a></h4>
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
