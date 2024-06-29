@@ -18,11 +18,11 @@
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>       "Terhidang Jiaozi yang lezat,</p>
-            <p>     Diatas meja, siap untuk disantap, </p>
-            <p>       Disamping Dumpling yang bulat, </p>
-            <p>     Berdampingan, siap untuk dilahap."</p>
-            <a href="#" class="btn-learn-more">Learn More</a>
+            <center><p>"Terhidang Jiaozi yang lezat,<br>
+                Diatas meja, siap untuk disantap,<br> 
+                  Disamping Dumpling yang bulat,<br> 
+                 Berdampingan, siap untuk dilahap."<br></p>
+            <a href="#" class="btn-learn-more">Learn More</a></center>
           </div>
         </div>
 
