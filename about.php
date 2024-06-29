@@ -22,7 +22,7 @@
                 Diatas meja, siap untuk disantap,<br> 
                   Disamping Dumpling yang bulat,<br> 
                  Berdampingan, siap untuk dilahap."<br></p>
-            <a href="#" class="btn-learn-more">Learn More</a></center>
+            <a href="#services" class="btn-learn-more">Learn More</a></center>
           </div>
         </div>
 
