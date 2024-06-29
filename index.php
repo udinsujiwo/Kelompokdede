@@ -48,7 +48,7 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-xl-8">
-          <h1>Selamat Data Di Kelompok Kami</h1>
+          <h1>Selamat Datang Di Kelompok Kami</h1>
           <h2>Berikut ini ada project kami</h2>
           <a href="https://youtu.be/N7XMpKAqJA4" class="glightbox play-btn mb-4"></a>
         </div>
