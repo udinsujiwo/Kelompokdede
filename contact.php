@@ -3,12 +3,12 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Kami di Jiaozi selalu siap mendengar dan membantu Anda. Apakah Anda memiliki pertanyaan, umpan balik, atau membutuhkan informasi lebih lanjut? Jangan ragu untuk menghubungi kami melalui salah satu metode di bawah ini</p>
         </div>
       </div>
 
       <div>
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/place/Teratai+I+No.24,+RT.007%2FRW.005,+Larangan+Indah,+Kec.+Larangan,+Kota+Tangerang,+Banten+15154/@-6.2274777,106.7267876,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f0a932012e17:0x75b47c62a6f05ef6!8m2!3d-6.2274777!4d106.7293625?entry=ttu" frameborder="0" allowfullscreen></iframe>
       </div>
 
       <div class="container">
@@ -19,20 +19,20 @@
             <div class="info">
               <div class="address">
                 <i class="ri-map-pin-line"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4>Lokasi Kami :</h4>
+                <p>Teratai I No.24, 15154</p>
               </div>
 
               <div class="email">
                 <i class="ri-mail-line"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>jiaozi.example@gmai.com</p>
               </div>
 
               <div class="phone">
                 <i class="ri-phone-line"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <h4>No. Telp :</h4>
+                <p>+62 895-3210-27360</p>
               </div>
 
             </div>
@@ -59,9 +59,9 @@
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">Masukan kamu telah terkirim. Terimakasih!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Kirim</button></div>
             </form>
 
           </div>
