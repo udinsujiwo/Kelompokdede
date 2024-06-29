@@ -11,8 +11,8 @@
           <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
               <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+              <li><a class="nav-link scrollto" href="#services">Menu</a></li>
               <li><a class="nav-link scrollto" href="#about">Tentang Kami</a></li>
-              <li><a class="nav-link scrollto" href="#services">Layanan</a></li>
               <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
               <li><a class="nav-link scrollto" href="#pricing">Harga</a></li>
               <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
@@ -37,7 +37,7 @@
             <i class="bi bi-list mobile-nav-toggle"></i>
           </nav><!-- .navbar -->
 
-          <a href="#about" class="get-started-btn scrollto">Get Started</a>
+          <a href="#about" class="get-started-btn scrollto">Mulai Jajan</a>
         </div>
       </div>
 
