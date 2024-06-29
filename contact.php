@@ -2,7 +2,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2>kontak</h2>
           <p>Kami di Jiaozi selalu siap mendengar dan membantu Anda. Apakah Anda memiliki pertanyaan, umpan balik, atau membutuhkan informasi lebih lanjut? Jangan ragu untuk menghubungi kami melalui salah satu metode di bawah ini</p>
         </div>
       </div>
