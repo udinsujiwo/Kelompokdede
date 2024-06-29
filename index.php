@@ -102,31 +102,41 @@
       <div class="container">
 
         <div class="text-center title">
-          <h3>What we have achieved so far</h3>
-          <p>Iusto et labore modi qui sapiente xpedita tempora et aut non ipsum consequatur illo.</p>
+          <h3> Inilah Kelompok Kami </h3>
+          <p> Website ini tidak akan ada tanpa tim yang bekerja dibaliknya.</p>
         </div>
 
         <div class="row counters position-relative">
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Clients</p>
+            <span data-purecounter-start="0" data-purecounter-end="19232048" data-purecounter-duration="1" class="purecounter"></span>
+            <p> Dede Masriansyah (Kapten) </p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Projects</p>
+            <span data-purecounter-start="0" data-purecounter-end="19231052" data-purecounter-duration="1" class="purecounter"></span>
+            <p> Seto Puspo Asmoro </p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Hours Of Support</p>
+            <span data-purecounter-start="0" data-purecounter-end="19231655" data-purecounter-duration="1" class="purecounter"></span>
+            <p> Annas Agung Wicaksono </p>
           </div>
 
           <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Hard Workers</p>
+            <span data-purecounter-start="0" data-purecounter-end="19230067" data-purecounter-duration="1" class="purecounter"></span>
+            <p> Muhammad Zessy </p>
           </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="19232117" data-purecounter-duration="1" class="purecounter"></span>
+            <p> Ahmad Dwiki R.W </p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="19230039" data-purecounter-duration="1" class="purecounter"></span>
+            <p> Avrio Ridho </p>
+          </div><br>
 
         </div>
 
