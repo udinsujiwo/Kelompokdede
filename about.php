@@ -1,0 +1,31 @@
+<section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Tentang Kami</h2>
+          <p>Kami adalah kelompok dari mata kuliah Web Programming 1 yang berencana dalam menciptakan karya-karya yang menginspirasi dan berarti. Dengan fokus pada proyek portofolio kelompok kami, kami berupaya untuk membangun dan mengembangkan portfolio yang mencerminkan keahlian kami. Setiap proyek kami didasari oleh dedikasi kami untuk kreativitas, kualitas, dan inovasi. Jelajahi karya-karya kami dan ikuti perjalanan kami menuju pencapaian visi kami yang lebih besar.</p>
+        </div>
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <p>
+              Mengapa memilih Jiaozi? Karena
+            </p>
+            <ul>
+              <li><i class="ri-check-double-line"></i> Jiaozi menyediakan berbagai menu Chinese Food yang dapat anda nikmati</li>
+              <li><i class="ri-check-double-line"></i> Jiaozi memudahkan anda memesan makanan dengan mudah tanpa berpergian</li>
+              <li><i class="ri-check-double-line"></i> Jiaozi memberikan kualitas pelayanan yang tinggi untuk memuaskan anda</li>
+            </ul>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+            <a href="#services" class="btn-learn-more">Learn More</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
