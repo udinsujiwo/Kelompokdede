@@ -94,9 +94,7 @@
     <!-- End Features Section -->
 
     <!-- ======= Clients Section ======= -->
-     <?php
-     include 'clients.php'
-     ?>
+    
     <!-- End Clients Section -->
 
     <!-- ======= Counts Section ======= -->
