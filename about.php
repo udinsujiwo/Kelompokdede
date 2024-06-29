@@ -9,13 +9,12 @@
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Mengapa memilih Jiaozi? Karena
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+              <li><i class="ri-check-double-line"></i> Jiaozi menyediakan berbagai menu Chinese Food yang dapat anda nikmati</li>
+              <li><i class="ri-check-double-line"></i> Jiaozi memudahkan anda memesan makanan dengan mudah tanpa berpergian</li>
+              <li><i class="ri-check-double-line"></i> Jiaozi memberikan kualitas pelayanan yang tinggi untuk memuaskan anda</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
