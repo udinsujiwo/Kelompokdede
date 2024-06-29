@@ -10,8 +10,8 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="box">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
+              <h3> Dimsum </h3>
+              <h4><sup>IDR</sup>18.000<span> / pcs</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -28,8 +28,8 @@
           <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
             <div class="box recommended">
               <span class="recommended-badge">Recommended</span>
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
+              <h3> Gyoza </h3>
+              <h4><sup>IDR</sup>20.000<span> / pcs</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -45,8 +45,8 @@
 
           <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
             <div class="box">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
+              <h3> Bakpao </h3>
+              <h4><sup>IDR</sup>25.000<span> / pcs</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
