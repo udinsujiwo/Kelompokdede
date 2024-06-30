@@ -2,7 +2,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Layanan</h2>
+          <h2>Menu
+          </h2>
           <p>Dibutuhkan susah payah untuk mendapatkan manfaatnya. Hal ini disebabkan oleh kebutuhannya 
 memang, beberapa melarikan diri darinya. Biarkan mereka menjadi apa yang mereka inginkan. Siapa pun siapa 
 siapa pun yang mempunyai keinginan Dan tidak ada orang yang menghalangi, tidak menerima orang lain. Karena dia harus melarikan diri 
