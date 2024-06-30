@@ -4,10 +4,10 @@
         <div class="section-title">
           <h2>Menu
           </h2>
-          <p>Dibutuhkan susah payah untuk mendapatkan manfaatnya. Hal ini disebabkan oleh kebutuhannya 
-memang, beberapa melarikan diri darinya. Biarkan mereka menjadi apa yang mereka inginkan. Siapa pun siapa 
-siapa pun yang mempunyai keinginan Dan tidak ada orang yang menghalangi, tidak menerima orang lain. Karena dia harus melarikan diri 
-Semoga Tuhan berkenan dengan kantor di sini.</p>
+          <p>Nikmati Hidangan Terbaik di JIAOZI
+          Dengan menggunakan bahan-bahan segar dan resep tradisional,
+           JIAOZI menghadirkan pengalaman kuliner Cina yang autentik dan lezat. 
+           Temukan berbagai pilihan hidangan yang akan memanjakan lidah Anda..</p>
         </div>
         <center>
         <p><h1>Dimsum</h1></p>
@@ -21,8 +21,9 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
         <!-- Add your image here -->
         <img src="assets/img/clients/dimsum2-removebg-preview 2.png" alt="Description of the image" width="100" height="100">
       </div>
-      <h4><a href="">Lorem Ipsum</a></h4>
-      <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+      <h4><a href="">Koutie Ayam</a></h4>
+      <p>Koutie ayam terbuat dari adonan tepung terigu yang diisi dengan campuran daging ayam cincang dan bumbu-bumbu lainnya. 
+        Koutie ayam kemudian direbus, dikukus, atau digoreng hingga matang.</p>
     </div>
   </div>
   
@@ -30,8 +31,9 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i>
               <img src="assets/img/clients/shiaumay-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Shiaumay</a></h4>
+              <p>Shiaumay dibuat dari adonan kulit pangsit yang tipis dan lembut. 
+                Isi dari dimsum ini biasanya terdiri dari daging ikan, udang, jamur, dan bumbu-bumbu lainnya.</p>
             </div>
           </div>
 
@@ -39,8 +41,9 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i>
               <img src="assets/img/clients/hakau-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">Hakau</a></h4>
+              <p>Hakau dibuat dari adonan kulit pangsit yang tipis dan transparan. 
+                Isi dari dimsum ini biasanya terdiri dari udang segar yang dihaluskan atau dicincang.</p>
             </div>
           </div>
 
@@ -52,8 +55,10 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i>
               <img src="assets/img/clients/dumpling-removebg-preview 1(1).png" alt="Description of the image" width="100" height="100"></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Originale</a></h4>
+              <p>Dampling originale (semacam pangsit) yang biasanya berisi daging 
+                cincang, sayuran, dan rempah-rempah,kemudian dibungkus dengan kulit tipis dan digoreng atau direbus.
+              </p>
             </div>
           </div>
 
@@ -61,8 +66,10 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/clients/gyoza_hot-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
-              <h4><a href="">Dele cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Choil</a></h4>
+              <p>Chili Oil atau Choil adalah dumpling (semacam pangsit) yang biasanya berisi daging cincang, sayuran,
+                 dan rempah-rempah ditambah dengan chili oil (minyak cabai)untuk menambah kesan rasa pedas
+              </p>
             </div>
           </div>
 
@@ -70,8 +77,9 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/clients/gyoza_sop-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
-              <h4><a href="">Dele cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Soup</a></h4>
+              <p>Chili Oil adalah dumpling (semacam pangsit) yang biasanya berisi daging cincang, sayuran,
+              dan rempah-rempah yang menggunakan kuah sup kaldu ayam atau tulang yang jernih yang dibumbui dengan soy sauce.</p>
             </div>
           </div>
 
@@ -83,7 +91,7 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
             <div class="icon-box">
               <div class="icon"><i class="bx bx-arch"></i> 
               <img src="assets/img/clients/AdobeStock_763050769_Preview-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
-              <h4><a href="">Divera don</a></h4>
+              <h4><a href="">Shaobao</a></h4>
               <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
           </div>
@@ -92,7 +100,7 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/clients/doushabao-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
-              <h4><a href="">Dele cardo</a></h4>
+              <h4><a href="">Doushabao</a></h4>
               <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
             </div>
           </div>
@@ -101,7 +109,7 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/clients/sheng_jian_bao-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
-              <h4><a href="">Dele cardo</a></h4>
+              <h4><a href="">Shengjianbao</a></h4>
               <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
             </div>
           </div>
