@@ -48,8 +48,9 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-xl-8">
-          <h1>Selamat Datang Di Jiaozi</h1>
-          <img src="assets/img/Jiaozi.jpeg" width="150" height="150">
+          <h1>WELCOME</h1>
+          <h1>TO THE SNACKSHOP<h1>
+          <img src="assets/img/Jiaozi.jpeg" width="200" height="200" class="rounded-img">
         </div>
       </div>
     </div>
