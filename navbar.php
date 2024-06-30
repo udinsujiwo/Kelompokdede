@@ -11,8 +11,8 @@
           <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
               <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+              <li><a class="nav-link scrollto" href="#about">About us</a></li>
               <li><a class="nav-link scrollto" href="#services">Menu</a></li>
-              <li><a class="nav-link scrollto" href="#about">About Us</a></li>
               <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
               <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
             </ul>
