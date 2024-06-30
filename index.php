@@ -126,7 +126,7 @@
             <p> Muhammad Zessy </p>
           </div>
 
-          <div class="col-lg-3 col-6 text-center">
+          <div class="col-lg-7 col-6 text-center">
             <span data-purecounter-start="0" data-purecounter-end="19232117" data-purecounter-duration="1" class="purecounter"></span>
             <p> Ahmad Dwiki R.W </p>
           </div>
