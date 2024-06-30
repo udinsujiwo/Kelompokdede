@@ -10,9 +10,9 @@
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-app">Dimsum</li>
+              <li data-filter=".filter-card">Gyoza</li>
+              <li data-filter=".filter-web">Bakpao</li>
             </ul>
           </div>
         </div>

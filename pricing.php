@@ -20,14 +20,13 @@
                 <li class="na">Massa ultricies mi</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a class="btn-buy">Buy Now</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-            <div class="box recommended">
-              <span class="recommended-badge">Recommended</span>
+            <div class="box ">
               <h3> Gyoza </h3>
               <h4><sup>IDR</sup>20.000<span> / pcs</span></h4>
               <ul>
@@ -38,7 +37,7 @@
                 <li class="na">Massa ultricies mi</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a class="btn-buy">Buy Now</a>
               </div>
             </div>
           </div>
@@ -55,7 +54,7 @@
                 <li>Massa ultricies mi</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a class="btn-buy">Buy Now</a>
               </div>
             </div>
           </div>
