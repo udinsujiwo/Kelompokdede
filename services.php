@@ -90,7 +90,7 @@ Semoga Tuhan berkenan dengan kantor di sini.</p>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i>
-              <img src="assets/img/clients/doushabao-removebg-preview 1.png.png" alt="Description of the image" width="100" height="100"></div>
+              <img src="assets/img/clients/doushabao-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Dele cardo</a></h4>
               <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
             </div>
