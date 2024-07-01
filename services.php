@@ -48,7 +48,7 @@
           </div>
 
           <center>
-        <p><h1>Dumpling</h1></p>
+        <p><h1>Gyoza</h1></p>
         </center>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
@@ -56,7 +56,7 @@
               <div class="icon"><i class="bx bx-world"></i>
               <img src="assets/img/clients/dumpling-removebg-preview 1(1).png" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Originale</a></h4>
-              <p>Dampling originale (semacam pangsit) yang biasanya berisi daging 
+              <p>Gyoza originale (semacam pangsit) yang biasanya berisi daging 
                 cincang, sayuran, dan rempah-rempah,kemudian dibungkus dengan kulit tipis dan digoreng atau direbus.
               </p>
             </div>
@@ -67,7 +67,7 @@
               <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/clients/gyoza_hot-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Choil</a></h4>
-              <p>Chili Oil atau Choil adalah dumpling (semacam pangsit) yang biasanya berisi daging cincang, sayuran,
+              <p>Chili Oil atau Choil adalah gyoza (semacam pangsit) yang biasanya berisi daging cincang, sayuran,
                  dan rempah-rempah ditambah dengan chili oil (minyak cabai)untuk menambah kesan rasa pedas
               </p>
             </div>
@@ -78,7 +78,7 @@
               <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/clients/gyoza_sop-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Soup</a></h4>
-              <p>Chili Oil adalah dumpling (semacam pangsit) yang biasanya berisi daging cincang, sayuran,
+              <p>Chili Oil adalah gyoza (semacam pangsit) yang biasanya berisi daging cincang, sayuran,
               dan rempah-rempah yang menggunakan kuah sup kaldu ayam atau tulang yang jernih yang dibumbui dengan soy sauce.</p>
             </div>
           </div>
