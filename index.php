@@ -80,7 +80,7 @@
             <p> Semua menu yang anda inginkan akan kami antarkan. Diskon 10% dengan JIAOZI10 !</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Pesan Online</a>
+            <a class="cta-btn align-middle" href="#pricing">Pesan Online</a>
           </div>
         </div>
 
