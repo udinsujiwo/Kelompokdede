@@ -154,7 +154,7 @@
           <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
             <div class="content">
-              <h3>Pertanyaan yang Sering <strong>Diajukan</strong></h3>
+              <h3>Pertanyaan yang sering <strong>Diajukan</strong></h3>
               <p>
               Kami memahami bahwa Anda mungkin memiliki beberapa pertanyaan sebelum menikmati kelezatan makanan Cina di Jiaozi. 
               Untuk membantu Anda, kami telah menyusun daftar pertanyaan yang sering diajukan beserta jawabannya. Jika Anda tidak menemukan jawaban yang Anda cari, jangan ragu untuk menghubungi kami.
