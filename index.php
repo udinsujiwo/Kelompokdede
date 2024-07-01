@@ -156,7 +156,7 @@
             <div class="content">
               <h3>Pertanyaan yang Sering <strong>Diajukan</strong></h3>
               <p>
-              Kami memahami bahwa Anda mungkin memiliki beberapa pertanyaan sebelum menikmati kelezatan makanan cina di Jiaozi. 
+              Kami memahami bahwa Anda mungkin memiliki beberapa pertanyaan sebelum menikmati kelezatan makanan Cina di Jiaozi. 
               Untuk membantu Anda, kami telah menyusun daftar pertanyaan yang sering diajukan beserta jawabannya. Jika Anda tidak menemukan jawaban yang Anda cari, jangan ragu untuk menghubungi kami.
               </p>
             </div>
@@ -164,7 +164,7 @@
             <div class="accordion-list">
               <ul>
                 <li>
-                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"> Apakah semua makanan cina di Jiaozi dibuat segar setiap hari? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"> Apakah semua makanan Cina di Jiaozi dibuat segar setiap hari? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
                     <p>
                     Ya, kami selalu membuat Jiaozi segar setiap hari menggunakan bahan-bahan berkualitas tinggi untuk memastikan rasa dan tekstur terbaik.
@@ -173,19 +173,20 @@
                 </li>
 
                 <li>
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed">Apakah makana yang ada di Jiaozi sudah bersertifikasi Halal dan diolah dengan baika dan benar? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed">Apakah makanan yang ada di Jiaozi sudah bersertifikasi Halal dan diolah dengan baik dan benar? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
                     <p>
-                      Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                    Kami memastikan bahwa semua bahan yang digunakan dalam pembuatan makanan Cina,
+                    direstoran Jiaozi kami bersertifikasi Halal dan diolah sesuai dengan standar kebersihan dan kesehatan yang ketat. Setiap langkah dalam proses pembuatan makanan diawasi dengan teliti untuk memastikan kualitas dan kehalalan produk kami.
                     </p>
                   </div>
                 </li>
 
                 <li>
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"> Apakah restoran memiliki parkir yang cukup?? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
                     <p>
-                      Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                    Ya, restoran kami memiliki area parkir yang luas untuk menampung kendaraan pelanggan. Kami juga menyediakan layanan valet parkir.
                     </p>
                   </div>
                 </li>
