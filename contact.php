@@ -8,7 +8,7 @@
       </div>
 
       <div>
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/place/Teratai+I+No.24,+RT.007%2FRW.005,+Larangan+Indah,+Kec.+Larangan,+Kota+Tangerang,+Banten+15154/@-6.2274777,106.7267876,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f0a932012e17:0x75b47c62a6f05ef6!8m2!3d-6.2274777!4d106.7293625?entry=ttu" frameborder="0" allowfullscreen></iframe>
+      <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.9916813236154!2d106.7267876!3d-6.2274777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f0a932012e17%3A0x75b47c62a6f05ef6!2sTeratai%20I%20No.24%2C%20RT.007%2FRW.005%2C%20Larangan%20Indah%2C%20Kec.%20Larangan%2C%20Kota%20Tangerang%2C%20Banten%2015154!5e0!3m2!1sen!2sid!4v1560252394988!5m2!1sen!2sid" frameborder="0" allowfullscreen></iframe>
       </div>
 
       <div class="container">
