@@ -19,7 +19,7 @@
             <i class="bi bi-list mobile-nav-toggle"></i>
           </nav><!-- .navbar -->
 
-          <a href="#about" class="get-started-btn scrollto">Mulai Jajan</a>
+          <a href="#pricing" class="get-started-btn scrollto">Mulai Jajan</a>
         </div>
       </div>
 
