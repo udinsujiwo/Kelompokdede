@@ -84,7 +84,7 @@
           </div>
 
           <center>
-        <p><h1>Bakpo</h1></p>
+        <p><h1>Bakpao</h1></p>
         </center>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">

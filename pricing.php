@@ -50,7 +50,7 @@
               <h3 class="na"><sup>IDR</sup>25.000</h3></ul>
               <ul>
                 <li>- Shaobao</li>
-                <li>- Doushaobao</li>
+                <li>- Doushabao</li>
                 <li>- Shengjianbao</li>
               </ul>
               <div class="btn-wrap">
