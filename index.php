@@ -64,41 +64,8 @@
      ?>
     <!-- End About Us Section -->
 
-    <!-- ======= Services Section ======= -->
-     <?php
-     include 'services.php'
-     ?>
-   <!-- End Services Section -->
-
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container">
-
-        <div class="row">
-          <div class="col-lg-9 text-center text-lg-start">
-            <h3>Segera Coba Jiaozi Kami</h3>
-            <p> Semua menu yang anda inginkan akan kami antarkan. Diskon 10% dengan JIAOZI10 !</p>
-          </div>
-          <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#pricing">Pesan Online</a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Cta Section -->
-
-    <!-- ======= Features Section ======= -->
-     <?php
-     include 'features.php'
-     ?>
-    <!-- End Features Section -->
-
-    <!-- ======= Clients Section ======= -->
-    
-    <!-- End Clients Section -->
-
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts">
+     <!-- ======= Counts Section ======= -->
+     <section id="counts" class="counts">
       <div class="container">
 
         <div class="text-center title">
@@ -142,6 +109,29 @@
 
       </div>
     </section><!-- End Counts Section -->
+
+    <!-- ======= Services Section ======= -->
+     <?php
+     include 'services.php'
+     ?>
+   <!-- End Services Section -->
+
+   <!-- ======= Cta Section ======= -->
+  <section id="cta" class="cta">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-start">
+            <h3>Segera Coba Jiaozi Kami</h3>
+            <p> Semua menu yang anda inginkan akan kami antarkan. Diskon 10% dengan JIAOZI10 !</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#pricing">Pesan Online</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
      <?php
