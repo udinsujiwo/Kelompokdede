@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #63200C;
+  color: #282828;
 }
 
 a {
@@ -157,7 +157,7 @@ h6 {
 }
 
 .get-started-btn:hover {
-  background: #EFC093;
+  background: #a2624f;
 ;
   color: #fff;
 }
@@ -513,52 +513,62 @@ section {
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
-.about .content h3 {
-  font-weight: 600;
-  font-size: 26px;
+
+.content {
+  color: #777777;
 }
 
-.about .content ul {
-  list-style: none;
-  padding: 0;
+.content p {
+  font-size: 15px; /* Sesuaikan ukuran font sesuai kebutuhan */
+  line-height: 1.6; /* Sesuaikan line-height sesuai kebutuhan */
 }
 
-.about .content ul li {
-  padding-left: 28px;
+.content ul {
+  list-style-type: none; /* Menghilangkan bullet points */
+  padding-left: 0; /* Menghilangkan padding kiri pada list */
+}
+
+.content li {
   position: relative;
+  padding-left: 25px; /* Memberikan ruang untuk icon */
 }
 
-.about .content ul li+li {
-  margin-top: 10px;
-}
-
-.about .content ul i {
+.content li:before {
+  content: '\f7a7'; /* Unicode untuk icon check double line */
+  font-family: 'RemixIcons'; /* Font family untuk ikon RemixIcons */
   position: absolute;
   left: 0;
-  top: 2px;
-  font-size: 20px;
-  color: #813E2A;
-  line-height: 1;
+  top: 0;
+  font-size: 18px; /* Sesuaikan ukuran ikon sesuai kebutuhan */
+  color: #777777; /* Warna ikon */
 }
 
-.about .content p:last-child {
-  margin-bottom: 0;
+.content center {
+  display: block; /* Membuat center menjadi block element */
+  margin: auto; /* Memberikan auto margin untuk centering */
+  text-align: center; /* Pusatkan teks di dalam center */
+}
+
+.content center p {
+  font-style: italic; /* Teks menjadi italic */
+  font-size: 13px; /* Sesuaikan ukuran font sesuai kebutuhan */
+  line-height: 1.6; /* Sesuaikan line-height sesuai kebutuhan */
 }
 
 .about .content .btn-learn-more {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 13px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 12px 32px;
-  border-radius: 50px;
+  border-radius: 30px;
   transition: 0.3s;
   line-height: 1;
   color: #813E2A;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #813E2A;
+  border: 1px solid #813E2A;
 }
 
 .about .content .btn-learn-more:hover {
@@ -805,7 +815,7 @@ section {
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
-  color: #63200C;
+  color: #282828;
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
   background: #f4f4f4;
