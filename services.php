@@ -92,7 +92,9 @@
               <div class="icon"><i class="bx bx-arch"></i> 
               <img src="assets/img/clients/AdobeStock_763050769_Preview-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Shaobao</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <p>Bakpao dengan isian dari daging ayam cincang,bawang bombay,bawang merang,bawang putih dan bumbu-bumbu.
+                Adonan bakpao dibuat dengan baik untuk bakpao yang mengembang dan lembut. 
+              </p>
             </div>
           </div>
 
@@ -101,7 +103,8 @@
               <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/clients/doushabao-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Doushabao</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <p>Bakpao Doushabao adalah sejenis bakpao atau pangsit kukus khas China yang diisi 
+                dengan isian dari kacang kedelai fermentasi atau "dousha".</p>
             </div>
           </div>
 
@@ -110,7 +113,8 @@
               <div class="icon"><i class="bx bx-slideshow"></i>
               <img src="assets/img/clients/sheng_jian_bao-removebg-preview 1.png" alt="Description of the image" width="100" height="100"></div>
               <h4><a href="">Shengjianbao</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <p>Shengjianbao adalah sejenis bakpao yang digoreng di bagian bawah, sehingga membentuk kulit yang renyah, 
+                bagian atas bakpao tetap lembut karena dikukus. isiannya bisai daging ayam cincang.</p>
             </div>
           </div>
 
