@@ -12,7 +12,7 @@
             <div class="box">
               <ul><h3> Dimsum </h3>
               <h4><sup>IDR</sup>16.200<span> / pcs</span></h4>
-              <h3 class="na"><sup>IDR</sup>20.000</h3></ul>
+              <h3 class="na"><sup>IDR</sup>18.000</h3></ul>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
