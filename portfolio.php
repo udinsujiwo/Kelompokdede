@@ -3,7 +3,8 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p> Selamat datang di Jiaozi tempat di mana tradisi kuliner Cina bertemu dengan cita rasa autentik dan modern.
+             Kami bangga menyajikan makanan, pangsit khas Cina yang telah menjadi simbol kelezatan di setiap meja makan.</p>
         </div>
 
         <div class="row">
